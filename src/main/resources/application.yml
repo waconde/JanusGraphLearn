@@ -1,1 +1,6 @@
+server:
+  port: 20000
 
+janusGraph:
+  remote:
+    configFilePath: conf/remote-graph.properties
